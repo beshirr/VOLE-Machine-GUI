@@ -48,7 +48,7 @@ The **Vole Machine Simulator** is a graphical simulator built with Qt for simula
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/vole-machine-simulator.git
+   git clone [https://github.com/your-username/vole-machine-simulator.git](https://github.com/beshirr/VOLE-Machine-Simulator.git)
    cd vole-machine-simulator
 2. **Build the project**
 - Ensure that CMake and Qt are installed
@@ -75,7 +75,7 @@ For Windows, ensure you have the Qt development tools installed and build the pr
 5. **Reset and Clear**: Reset the program counter or clear memory and registers as needed.
 
 ## Project Structure
-plaintext
+```
 vole-machine-simulator/
 ├── src/
 │   ├── mainwindow.cpp       # Main GUI logic
@@ -92,7 +92,7 @@ vole-machine-simulator/
 │   ├── icons/               # Program icons
 │   └── help/                # Help documentation
 └── README.md
-
+```
 ## Contributing
 To contribute, please fork the repository, make your changes, and submit a pull request. Make sure to follow the project's coding style and include relevant documentation.
 
@@ -101,5 +101,5 @@ To contribute, please fork the repository, make your changes, and submit a pull 
 - **Youssef Ahmed Beshir**: https://github.com/beshirr
 - **Zeyad Mohamed Arafat**: https://github.com/ZeyadArafat
 - **Moaz Mohamed Soliman**: https://github.com/moaaz-mohamedd
-- 
+
    
